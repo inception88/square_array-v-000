@@ -4,4 +4,5 @@ def square_array(array)
     square = x*x
     new_array << square
   end
+  new_array
 end
