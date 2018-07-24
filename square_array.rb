@@ -1,6 +1,5 @@
 def square_array(array)
 array.collect {|x| x*x }
-  end
 end
 
 def swquare_array(array)
